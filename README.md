@@ -1,7 +1,7 @@
 # build attention
-1.modify path in config/euroc.yaml and launch file
-2.usleep undeclared problem-- add #include <unistd.h>
-3.modify opencv version in CMakelists.txt
+1. modify path in config/euroc.yaml and launch file.
+2. usleep undeclared problem-- add #include <unistd.h>.
+3. modify opencv version in CMakelists.txt.
 
 # Realtime branch. 
 
